@@ -1,0 +1,6 @@
+[submodule "matcher-frontend"]
+	path = matcher-frontend
+	url = https://github.com/lunker/matcher-frontend.git
+[submodule "matcher-backend"]
+	path = matcher-backend
+	url = https://github.com/lunker/matcher-backend.git
